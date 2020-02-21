@@ -5720,11 +5720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctej\\source\\repos\\WebApplication_Mysql\\WebApplication_Mysql\\WebApplication_Mysql.csproj",
+      "projectUniqueName": "C:\\Users\\ctej\\source\\repos\\CustomerSite\\WebApplication_Mysql\\WebApplication_Mysql.csproj",
       "projectName": "WebApplication_Mysql",
-      "projectPath": "C:\\Users\\ctej\\source\\repos\\WebApplication_Mysql\\WebApplication_Mysql\\WebApplication_Mysql.csproj",
+      "projectPath": "C:\\Users\\ctej\\source\\repos\\CustomerSite\\WebApplication_Mysql\\WebApplication_Mysql.csproj",
       "packagesPath": "C:\\Users\\ctej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctej\\source\\repos\\WebApplication_Mysql\\WebApplication_Mysql\\obj\\",
+      "outputPath": "C:\\Users\\ctej\\source\\repos\\CustomerSite\\WebApplication_Mysql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

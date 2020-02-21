@@ -35,7 +35,7 @@ namespace WebApplication_Mysql.Models
                             {
                                    NRIC =  Convert.ToInt32(reader["NRIC"]),
                                    Name =  reader["Name"].ToString(),
-                                   Email =  reader["EmailID"].ToString()
+                                   Email =  reader["Email"].ToString()
                             }
                         );
                     }
