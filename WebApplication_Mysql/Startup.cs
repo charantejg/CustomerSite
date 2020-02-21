@@ -46,6 +46,8 @@ namespace WebApplication_Mysql
             }
 
           //  app.UseDefaultFiles();
+         
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
